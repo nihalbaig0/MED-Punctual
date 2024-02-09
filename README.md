@@ -87,17 +87,5 @@ This project introduces a novel pill box titled MedPunctual, designed to deliver
 3. **3D Models:**
    - The `3D Models` folder contains all models necessary for this project. Use compatible 3D printing software to open and print these models.
 
-## Contributing
 
-If you'd like to contribute to the project, please fork the repository and create a pull request with your changes. You're also welcome to submit issues for any bugs found or features suggested.
-
-## License
-
-This project is licensed under the [INSERT LICENSE HERE] License - see the LICENSE.md file for details.
-
-## Acknowledgments
-
-- Mention any inspirations, code snippets, etc.
-- Any collaborators or contributors
-- External resources or communities that helped
 
